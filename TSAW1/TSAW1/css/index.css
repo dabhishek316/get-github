@@ -1,0 +1,122 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+.carousel-content {
+    position: absolute;
+    bottom: 10%;
+    left: 5%;
+    z-index: 20;
+    color: white;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+  }
+  .q{
+    font-size: 2.5rem;
+    color: blue;
+    position: relative;
+    top: -11em;
+}
+.w{
+    font-size: 1.75rem;
+    color: black;
+    position: relative;
+    top: -426px;
+}
+#but{
+    color: #fff;
+    background-color: #343a40;
+    border-color: #343a40;
+    position: relative;
+    top: -405px;
+}
+.col-lg-11{
+    margin-top: 4em;
+    margin-left: 90px;
+}
+.row{
+    width: 100%;
+}
+.rw1{
+    font-size: large;
+    position: absolute;
+    left: 19em;
+    top: 2em;
+    text-align: -webkit-match-parent;
+    text-justify: inter-word;
+}
+.rw2{
+    position: absolute;
+    top: 7em;
+    left: 19em;
+    font-size: large;
+    width: 71%;
+    text-align: -webkit-match-parent;
+    text-justify: inter-word;
+}
+.rw{
+    position: absolute;
+    top: 0em;
+    left: 341px;
+    font-size: x-large;
+    font-weight: 700;
+}
+.fpf{
+    float: right;
+    width: 374px;
+}
+.r1{
+    font-size: x-large;
+    font-weight: 700;
+}
+.r2{
+    text-align: -webkit-match-parent;
+    text-justify: inter-word;
+}
+.s{
+    color: white;
+    font-size: xx-large;
+    position: relative;
+    left: 11em;
+    width: 981px;
+}
+.col-md-4{
+    position: relative;
+    left: 5em;
+}
+hr{
+    border: 4px solid blue;
+}
+div.vertical
+{
+    width: 50px;
+  height: 20px;
+  -ms-transform: rotate(90deg); /* IE 9 */
+  transform: rotate(270deg);
+}
+.renforce{
+    position: relative;top: 21em;margin-left: 414px;width: 495px;height: 118px;text-align: center;
+}
+.vl {
+    border-left: 4px solid blue;
+    height: 110px;
+    position: relative;
+    left: 41em;
+    top: 23em;
+    width: 21px;
+  }
+.v2{
+    border-left: 4px solid blue;
+    height: 94em;
+    position: relative;
+    left: 8em;
+    top: 21em;
+    width: 21px;
+}
+.v3{
+    border-left: 4px solid blue;
+    height: 17em;
+    position: relative;
+    left: 509px;
+    top: 11em;
+    width: 21px;
+}
+
